@@ -1,0 +1,24 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+.DS_Store
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MySQL & Workbench Logs / Backups / Temporary files
+*.bak
+*.sql.bak
+*.log
+*.tmp
+*.temp
+
+# Local agent / assistant workspace metadata
+.agent/
